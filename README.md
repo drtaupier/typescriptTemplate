@@ -9,6 +9,7 @@ This TypeScript template has the next dependencies:
 2. Prettier
 3. Eslint
 
+For init this template you got to do:
 ```
 npm install
 ```
