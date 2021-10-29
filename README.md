@@ -13,3 +13,13 @@ For init this template you got to do:
 ```
 npm install
 ```
+
+For run the main.ts I should run:
+```
+npm run build
+```
+
+If I want to see the output, I can run:
+```
+node build/main
+```
