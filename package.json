@@ -6,14 +6,15 @@
   "scripts": {
     "build": "npx tsc",
     "lint": "eslint . --ext .ts",
-    "prettier": "prettier --config .prettierrc 'src/**/*.ts' --write"
+    "prettier": "prettier --config .prettierrc 'src/**/*.ts' --write",
+    "jasmine": "jasmine"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/jasmine": "^3.10.1",
     "@types/lodash": "^4.14.176",
-    "@types/node": "^16.11.1",
+    "@types/node": "^16.11.6",
     "@typescript-eslint/eslint-plugin": "^5.1.0",
     "@typescript-eslint/parser": "^5.1.0",
     "eslint": "^8.0.1",
